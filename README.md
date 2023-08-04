@@ -1,5 +1,4 @@
-# gen_apps
-An introduction to Building Generative AI Applications with Gradio
+# An introduction to Building Generative AI Applications with Gradio
 
 # Apps
 - Chatbot
