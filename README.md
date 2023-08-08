@@ -1,9 +1,10 @@
 # Building Generative AI Applications with Gradio
 
 # Apps
-- Chatbot
 - Image Captioner
-- Text-based Image Generator
+- Text Summarization app
+- Named Entity Recognition app
+- Chatbot app
 
 # Instruções de Uso
 1. Clone este repositório em seu ambiente de desenvolvimento local

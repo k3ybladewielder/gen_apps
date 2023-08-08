@@ -1,1 +1,3 @@
 gen_apps_env/
+env/
+venv/
